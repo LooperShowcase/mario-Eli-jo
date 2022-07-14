@@ -21,8 +21,8 @@ loadSprite("dino", "dino.png");
 loadSprite("mount", "mountbg.png");
 loadSprite("flag", "flag.png");
 
-loadSound("gamesound", "gamesound.mp3");
-loadSound("jumpsound", "jumpsound.mp3");
+loadSound("gamesound", "gameSound.mp3");
+loadSound("jumpsound", "jumpSound.mp3");
 loadSound("deathsound", "deathsound.mp3");
 loadSound("villandie", "villanDie.mp3");
 loadSound("coinsound", "coinsound.mp3");
